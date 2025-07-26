@@ -56,7 +56,7 @@ python worldeye.py -t 192.168.1.100 -m --save results.json
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omerfaruk-shp/worldeye/main/assets/demo.png" width="700">
+  <img src="https://raw.githubusercontent.com/omerfaruk-shp/worldeye/main/demo.png" width="700">
 </p>
 
 ---
