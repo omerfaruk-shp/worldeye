@@ -18,7 +18,6 @@ Lightweight, fast, and fully CLI-driven — ideal for red teams and CTF challeng
 - ✅ **SSH Brute Force** – Dictionary attack for login discovery  
 - ✅ **IPv6 Support** – Native dual stack support  
 - ✅ **JSON Export** – Save structured results  
-- ✅ **CyberSec ASCII Art** – 3D animated terminal eye logo  
 
 ---
 
