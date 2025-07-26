@@ -25,10 +25,10 @@ Lightweight, fast, and fully CLI-driven — ideal for red teams and CTF challeng
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/worldeye
+git clone https://github.com/omerfaruk-shp/worldeye
 cd worldeye
 pip install -r requirements.txt
-python worldeye_ctf_final.py --help
+python worldeye.py --help
 ```
 
 > Python 3.10+ is recommended. No GUI, no Flask. Full terminal control.
@@ -39,16 +39,16 @@ python worldeye_ctf_final.py --help
 
 ```bash
 # Smart TCP scan
-python worldeye_ctf_final.py -t 192.168.1.100 -m
+python worldeye.py -t 192.168.1.100 -m
 
 # Full TCP + UDP + OS + traceroute
-python worldeye_ctf_final.py -t 192.168.1.100 -f --udp --os --trace
+python worldeye.py -t 192.168.1.100 -f --udp --os --trace
 
 # SSH brute-force attack
-python worldeye_ctf_final.py -t 192.168.1.100 --ssh-brute --userlist users.txt --passlist passwords.txt
+python worldeye.py -t 192.168.1.100 --ssh-brute --userlist users.txt --passlist passwords.txt
 
 # Save output
-python worldeye_ctf_final.py -t 192.168.1.100 -m --save results.json
+python worldeye.py -t 192.168.1.100 -m --save results.json
 ```
 
 ---
@@ -56,7 +56,7 @@ python worldeye_ctf_final.py -t 192.168.1.100 -m --save results.json
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/worldeye/main/assets/demo.png" width="700">
+  <img src="https://raw.githubusercontent.com/omerfaruk-shp/worldeye/main/assets/demo.png" width="700">
 </p>
 
 ---
