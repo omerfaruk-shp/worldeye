@@ -67,3 +67,11 @@ MIT License. Use it freely for ethical hacking, labs, and education.
 ---
 
 <h3 align="center">👁️ WorldEye – See what they hide.</h3>
+
+> 🛡️ **Yasal Uyarı / Legal Disclaimer**
+>
+> WorldEye X aracı, yalnızca **yetkili ortamlar** ve **yasal sınırlar** dahilinde kullanılmalıdır.
+> Herhangi bir sistemde izinsiz tarama yapmak, ülkenizdeki yasa ve yönetmeliklere göre **suç sayılabilir**.
+>
+> The WorldEye X tool must only be used in **authorized environments** and within the bounds of the law.
+> Unauthorized scanning may be considered **illegal** under your local laws and regulations.
